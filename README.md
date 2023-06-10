@@ -1,7 +1,7 @@
 ![Full Stack Developer (.Net)](https://media.licdn.com/dms/image/D4D16AQH1yUEi7qzvCg/profile-displaybackgroundimage-shrink_350_1400/0/1686119716089?e=1691625600&v=beta&t=2HyfML_nJCgXqbx0OKtVpnOhYGkm4p1qNcdJwYEzBog)
 
 
-### Hi there 👋, I'm Pipul Rahman
+### Hi👋, I'm Pipul Rahman
 #### Full Stack Developer (.Net)
 
 Software Developer with a strong ability to quickly cope up with any new environment and technology. I am fully committed, responsible, result-oriented, and eager to learn. Interested in working with an organization where my success is valued through appreciation, criticism, motivation, hard-working, dynamism as well as the organizations’ success.
